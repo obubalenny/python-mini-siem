@@ -1,0 +1,18 @@
+Mar 10 14:22:01 server sshd[1234]: Failed password for invalid user admin from 192.168.1.50 port 44221 ssh2
+Mar 10 14:22:03 server sshd[1235]: Failed password for invalid user root from 192.168.1.50 port 44222 ssh2
+Mar 10 14:22:05 server sshd[1236]: Accepted password for alice from 10.0.0.12 port 55100 ssh2
+Mar 10 14:22:08 server sshd[1237]: Failed password for invalid user admin from 192.168.1.50 port 44223 ssh2
+Mar 10 14:22:10 server sshd[1238]: Failed password for invalid user ubuntu from 192.168.1.50 port 44224 ssh2
+Mar 10 14:22:12 server sshd[1239]: Failed password for invalid user test from 192.168.1.50 port 44225 ssh2
+Mar 10 14:23:15 server sshd[1240]: Accepted publickey for bob from 10.0.0.15 port 51204 ssh2: RSA SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8
+Mar 10 14:25:01 server sshd[1241]: Failed password for alice from 203.0.113.42 port 38910 ssh2
+Mar 10 14:25:04 server sshd[1242]: Failed password for alice from 203.0.113.42 port 38911 ssh2
+Mar 10 14:25:07 server sshd[1243]: Failed password for alice from 203.0.113.42 port 38912 ssh2
+Mar 10 14:25:11 server sshd[1244]: Failed password for alice from 203.0.113.42 port 38913 ssh2
+Mar 10 14:25:14 server sshd[1245]: Accepted password for alice from 203.0.113.42 port 38914 ssh2
+Mar 10 14:28:30 server sshd[1246]: Invalid user postgres from 198.51.100.88 port 60112
+Mar 10 14:28:31 server sshd[1246]: Failed password for invalid user postgres from 198.51.100.88 port 60112 ssh2
+Mar 10 14:30:00 server sshd[1236]: Disconnected from user alice 10.0.0.12 port 55100
+Mar 10 14:35:19 server sshd[1247]: Failed password for root from 185.220.101.4 port 49821 ssh2
+Mar 10 14:35:22 server sshd[1248]: Connection closed by authenticating user root 185.220.101.4 port 49822 [preauth]
+Mar 10 14:40:05 server sshd[1249]: Accepted password for charlie from 10.0.0.21 port 53411 ssh2
