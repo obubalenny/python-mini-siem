@@ -15,10 +15,10 @@ A lightweight Security Information and Event Management (SIEM) tool built in Pyt
 [*] Parsed 15 total events from data/auth.log
 [*] Generated 2 alerts.
 
-⚠️  WARNING: Failed Brute-force attempt from 192.168.1.50
+WARNING: Failed Brute-force attempt from 192.168.1.50
     -> 5 failed logins starting at 2026-03-10 14:22:01
 ----------------------------------------
-🚨 CRITICAL ALERT: SUCCESSFUL Brute-force from 203.0.113.42
+CRITICAL ALERT: SUCCESSFUL Brute-force from 203.0.113.42
     -> 4 failed logins, followed by a successful login!
 ----------------------------------------
 <img width="1477" height="360" alt="image" src="https://github.com/user-attachments/assets/561a1242-b01d-4971-94a3-4bc5a6c89c46" />
