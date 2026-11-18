@@ -21,6 +21,8 @@ A lightweight Security Information and Event Management (SIEM) tool built in Pyt
 🚨 CRITICAL ALERT: SUCCESSFUL Brute-force from 203.0.113.42
     -> 4 failed logins, followed by a successful login!
 ----------------------------------------
+<img width="1477" height="360" alt="image" src="https://github.com/user-attachments/assets/561a1242-b01d-4971-94a3-4bc5a6c89c46" />
+
 
 ## Lessons Learned & Limitations
 - **Year parsing:** Syslog timestamps don't include the year, so I had to build logic to infer it.
